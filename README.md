@@ -1,3 +1,6 @@
+gogo
+
+
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p align="center">
